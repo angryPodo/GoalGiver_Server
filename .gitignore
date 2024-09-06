@@ -1,0 +1,12 @@
+
+node_modules/
+
+.husky/_
+
+.env
+
+secure/
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
